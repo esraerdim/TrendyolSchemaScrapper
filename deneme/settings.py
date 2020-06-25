@@ -1,0 +1,4 @@
+BOT_NAME = 'deneme'
+
+ROBOTSTXT_OBEY = True
+HTTPCACHE_ENABLED = True
