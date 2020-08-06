@@ -4,8 +4,8 @@ the trendyol2.json file.
 
 Use:
 
-After saving the site urls to the csv file, the path of this file should be specified deneme.py
+After saving the site urls to the csv file, the path of this file should be specified scrapper.py
 
 In CMD:
 
-python deneme.py
+python scrapper.py
